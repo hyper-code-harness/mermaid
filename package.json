@@ -1,7 +1,11 @@
 {
   "name": "mermaid",
-  "private": true,
+  "version": "1.0.1",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyper-code-harness/mermaid"
+  },
   "procs": {
     "src": "src",
     "label": "Mermaid",
